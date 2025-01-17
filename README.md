@@ -5,8 +5,6 @@ Script Setup and configuration <br/>
 <ol>
   <li>Log into your sophos central customer</li>
 
-  <li>Terzo elemento</li>
-
 ![image](https://github.com/user-attachments/assets/98191389-2513-4cf6-9bd3-c1f26aba1465)
 
   <li>Create an API Token from the central</li>
