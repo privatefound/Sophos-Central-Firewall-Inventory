@@ -21,3 +21,8 @@ Script Setup and configuration <br/>
   <li>Run the script</li>
     - python3 script.py
 </ol>
+
+Sources: 
+- https://developer.sophos.com/docs/firewall-v1/1/overview
+- https://community.sophos.com/sophos-central-api/f/recommended-reads/120745/authenticating-to-sophos-central-apis
+- https://developer.sophos.com/intro
