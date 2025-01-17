@@ -17,10 +17,10 @@ Script Setup and configuration <br/>
 
   <li>Edit the script</li>
     - Then edit the script by adding <strong>client id and client secret</strong> at line 10 and 11
-<br/>
+<br/><br/>
   <li>Run the script</li>
     - <code>python3 script.py</code>
-</ol>
+</ol><br/>
 
 Sources: 
 - https://developer.sophos.com/docs/firewall-v1/1/overview
