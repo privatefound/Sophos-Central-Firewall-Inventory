@@ -102,7 +102,7 @@ def save_to_excel(extracted_data, filename="output.xlsx"):
 
     
 extracted_data = extract_info(datijson)
-save_to_excel(extracted_data, filename="FWList.xlsx")
+save_to_excel(extracted_data, filename="output.xlsx")
 
 #formatted_output = json.dumps(extracted_info, indent=2)
 #print(formatted_output)
