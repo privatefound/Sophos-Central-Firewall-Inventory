@@ -19,7 +19,7 @@ Script Setup and configuration <br/>
     - Then edit the script by adding <strong>client id and client secret</strong> at line 10 and 11
 
   <li>Run the script</li>
-    - python3 script.py
+    - <code>python3 script.py</code>
 </ol>
 
 Sources: 
