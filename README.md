@@ -18,6 +18,9 @@ Script Setup and configuration <br/>
   <li>Edit the script</li>
     - Then edit the script by adding <strong>client id and client secret</strong> at line 10 and 11
 <br/><br/>
+  <li>Install dependencies</li>
+    - <code>pip3 install openpyxl</code>
+  <br/><br/>
   <li>Run the script</li>
     - <code>python3 script.py</code>
 </ol><br/>
